@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "IrxAGAiks2AqQlaE7FXRASvSoI4DEwCBjkHlamT/I2M=",
+  "Source": "Mission.Api",
+  "BasePath": "_content/Mission.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mission.Api\\wwwroot",
+      "Source": "Mission.Api",
+      "ContentRoot": "D:\\Summer Internship 2025\\Mission\\Mission.Api\\wwwroot\\",
+      "BasePath": "_content/Mission.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
